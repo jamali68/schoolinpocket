@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSchool_in_Pocket_Documentation=self.webpackChunkSchool_in_Pocket_Documentation||[]).push([[9184],{37855:o=>{o.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"schooladmin"}')}}]);
